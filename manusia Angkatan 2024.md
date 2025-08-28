@@ -10,18 +10,18 @@
    JK     : Laki-Laki
    Agama  : Islam
    TTL    : -
-   Alamat : -
+   Alamat : Kp. Sidomukti
 
 3. Nama   : FARHAN DWI SAPUTRA
    NIM    : -
    JK     : Laki-Laki
    Agama  : Islam
    TTL    : -
-   Alamat : -
+   Alamat : Km. 13
 
 4. Nama   : NUGRAHA ANGGA PRATAMA
    NIM    : -
    JK     : Laki-Laki
    Agama  : Islam
    TTL    : -
-   Alamat : -
+   Alamat : Kp. Sumber Rejo
